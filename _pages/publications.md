@@ -10,7 +10,7 @@ author_profile: true
 ### Monographie
 
 Mende, Jana-Katharina (2020): Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. 1. Auflage. Heidelberg: Universitätsverlag Winter. 
-* Rezension: Andrea Meyer-Fraatz in: Gestern | Romantik | Heute, online 07.10.2020, URL: http://www.gestern-romantik-heute.uni-jena.de/index.php?cID=166#614
+* Rezension: Andrea Meyer-Fraatz in: Gestern Romantik Heute, online 07.10.2020, URL: http://www.gestern-romantik-heute.uni-jena.de/index.php?cID=166#614
 
 ### Mit-Herausgeberschaft
 
