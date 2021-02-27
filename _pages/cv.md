@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Lebenslauf
-======
 seit 10/2019: Lektorin für deutsche Literatur und Sprache, Université de Liège
 
 10/2017–09/2019: DAAD-Lektorin am Institut für Germanistik, Uniwersytet Wroclaw, Polen
