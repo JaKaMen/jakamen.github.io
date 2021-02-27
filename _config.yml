@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "mint"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Jana-Katharina Mende"
@@ -82,7 +84,7 @@ analytics:
 author:
   name             : "Jana-Katharina Mende"
   avatar           : "profilejakm.jpg"
-  bio              : "Lecturer in German Languages and Literatures, University of Liège"
+  bio              : "Lecturer in German Language and Literature, University of Liège"
   location         : "Liège, BE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
