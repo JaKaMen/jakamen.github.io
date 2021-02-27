@@ -19,7 +19,7 @@ author_profile: true
 ### SoSe 2019
 * Cwiczenia leksykalno-konwersacyjne/ Lexikalische Konversationsübung (Uniwersytet Wroclaw)
 
-*Geschichte von Deutsch als Fremdsprache (Konversatorium) (Uniwersytet Wroclaw)
+* Geschichte von Deutsch als Fremdsprache (Konversatorium) (Uniwersytet Wroclaw)
 
 ### SoSe 2018
 * Cwiczenia w mówieniu / Konversation
