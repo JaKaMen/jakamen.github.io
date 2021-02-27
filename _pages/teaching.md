@@ -4,14 +4,26 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Lehrveranstaltungen im Sommersemester 2020:
+## Lehrveranstaltungen im Sommersemester 2021:
 
 * SE: Civilisation allemande (Université de Liège)
 
 * Übung: Pratique de l'argumentation en allemand (Université de Liège)
 
+* SE: Digitale Literaturwissenschaft (gemeinsam mit V. Viehöver)
+
 
 ## Lehrveranstaltungen in früheren Semestern:
+### WiSe 2020/21
+
+* SE: Digitale Literaturwissenschaft (gemeinsam mit V. Viehöver)
+
+* Konversation Deutsch (Université de Liège)
+
+### SoSe 2020
+* SE: Civilisation allemande (Université de Liège)
+
+* Übung: Pratique de l'argumentation en allemand (Université de Liège)
 
 ### WiSe 2019/2020
 * Konversation Deutsch (Université de Liège)
