@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-seit 10/2019: Lektorin für deutsche Literatur und Sprache, Université de Liège
+ab 10/2021: wissenschaftliche Mitarbeiterin, Abteilung für Komparatistik, Martin-Luther-Universität Halle-Wittenberg
+
+10/2019–09/2021: Lektorin für deutsche Literatur und Sprache, Université de Liège
 
 10/2017–09/2019: DAAD-Lektorin am Institut für Germanistik, Uniwersytet Wroclaw, Polen
 
-10/2012–09/2017: wissenschaftliche Mitarbeiterin bei Prof. Dr. Jochen A. Bär am Institut für Geistes- und Kulturwissenschaften (Germanistische Sprachwissenschaft), Universität Vechta
+10/2012–09/2017: wissenschaftliche Mitarbeiterin am Institut für Geistes- und Kulturwissenschaften (Germanistische Sprachwissenschaft), Universität Vechta
 
 10/2012–05/2017: Promotionsstudium an der Universität Wien, Vergleichende Literaturwissenschaft (Cotutelle de thèse)
 
