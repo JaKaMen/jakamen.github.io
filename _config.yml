@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Jana-Katharina Mende"
   avatar           : "Foto_Mende.jpg"
-  bio              : "Lecturer in German Language and Literature, University of Liège"
-  location         : "Liège, BE"
+  bio              : "Postdoc in Comparative Literature, MLU Halle-Wittenberg"
+  location         : "Halle; GER"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jkmende@uliege.be"
+  email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
