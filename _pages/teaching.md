@@ -4,20 +4,30 @@ title: "Lehre"
 permalink: /teaching/
 author_profile: true
 ---
-## Lehrveranstaltungen im Wintersemester 2021/22, Martin-Luther-Universität Halle-Wittenberg:
 
-SE: Romantik und Mehrsprachigkeit: Komparatistische Perspektiven 
 
-SE:Methoden digitaler Literaturwissenschaft: Einführung und Experimente
+## Lehrveranstaltungen im Sommersemester 2022, Martin-Luther-Universität Halle-Wittenberg:
+
+* SE: Literarische Vergleiche digital modellieren 
+
+* SE: Schreiborte - Writing places 
+
 
 ## Lehrveranstaltungen in früheren Semestern:
-### WiSe 2020/21
+### WiSe 2021
+
+* SE: Romantik und Mehrsprachigkeit: Komparatistische Perspektiven 
+
+* SE:Methoden digitaler Literaturwissenschaft: Einführung und Experimente
+
+### SoSe 2021
 
 * SE: Civilisation allemande (Université de Liège)
 
 * Übung: Pratique de l'argumentation en allemand (Université de Liège)
 
 * SE: Digitale Literaturwissenschaft (gemeinsam mit V. Viehöver)
+
 ### WiSe 2020/21
 
 * SE: Digitale Literaturwissenschaft (gemeinsam mit V. Viehöver)
