@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Forschung"
+title: "Forschung / research"
 permalink: /publications/
 author_profile: true
 ---
+## Forschungsprojekte:
+
+### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
+The research project aims to  investigate how multilingual authors lived, wrote and published within a monolingual national literature in multilingual centres in the 19th century. To this end, I use a scalable approach to measure the extent and examine the characteristics of historical multilingual literature.
+
+
 
 ## Publikationen (Auswahl)
 
