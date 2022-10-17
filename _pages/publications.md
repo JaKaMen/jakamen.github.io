@@ -24,7 +24,18 @@ Mende, Jana-Katharina (2020): Das Konzept des Messianismus in der polnischen, fr
 
 Jochen A. Bär/Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
 
-### Aufsätze
+### Artikel und Aufsätze
+Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Deutschland. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 108-130. 
+
+Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Europa und der Welt. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 131-151. 
+
+Mende, Jana-Katharina (2021): #SpotGerman als Diskursgegenstand auf der Social Media-Plattform Instagram: Zur Darstellung der deutschen Sprache in Breslau heute. In: Heiko F. Marten und Evelyn Ziegler (Hrsg.): Linguistic Landscapes im deutschsprachigen Kontext: Forschungsperspektiven, Methoden und Anwendungsmöglichkeiten im Unterricht und Sprachmarketing. Peter Lang Verlag 
+
+Mende, Jana-Katharina (2021): Einsprachigkeit, Fremdsprachigkeit, Mehrsprachigkeit und Transsprachigkeit in der sprachhistorischen Forschung zu Text und Diskurs Eine Reflexion. In: Jahrbuch für germanistische Sprachgeschichte 11, S. 48–60. Online verfügbar unter https://doi.org/10.1515/jbgsg-2020-0005.
+
+Mende, Jana-Katharina (2020): Übersetzung und Postkoloniale Studien im deutschsprachigen Raum: Von der Theorie zu den Texten. In: Peter Weiss Jahrbuch. Hrsg. v. Arnd Beise und Michael Hofmann, S. 79-95. 
+
+Mende, Jana-Katharina (2020): Polnisch-deutsche Mehrsprachigkeiten: Die polnische Übersetzung und Rezeption von Katja Petrowskajas / Katia Petrowskas Vielleicht Esther / Może Estera In: Migration und Gegenwartsliteratur. Hrsg. v. Matthias Aumüller und Weertje Willms. Paderborn: Fink, 2020, S. 163-187. 
 
 Mende, Jana-Katharina (2019): Monolingual City, Multilingual Voices: Polish Exile Writers in 19th Century Paris. In: Mapping Multilingualism in 19th Century European Literatures / Le plurilinguisme dans les littératures européennes du XIXe siècle. Hrsg. v. Olga Anokhina, Till Dembeck und Dirk Weissmann. Berlin, Lit Verlag, S. 15-35.
 
