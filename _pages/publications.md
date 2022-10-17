@@ -9,6 +9,7 @@ author_profile: true
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
 The research project aims to  investigate how multilingual authors lived, wrote and published within a monolingual national literature in multilingual centres in the 19th century. To this end, I use a scalable approach to measure the extent and examine the characteristics of historical multilingual literature.
 
+![Alt-Text](JaKaMen/jakamen.github.io/images/Annotierte Wohnorte von Autorinnen_Pataky1898_erstellt mit Recogito.png "Annotierte Wohnorte")
 
 
 ## Publikationen (Auswahl)
