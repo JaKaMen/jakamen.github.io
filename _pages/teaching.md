@@ -7,13 +7,19 @@ author_profile: true
 
 
 ## Lehrveranstaltungen im Sommersemester 2022, Martin-Luther-Universität Halle-Wittenberg:
+### WiSe 2022/23
+* SE: Mehrsprachige Lyrik
+
+* SE: Digitale Literaturgeschichte: Knoten, Kanten, Netze
+
+
+## Lehrveranstaltungen in früheren Semestern:
+### SoSe 2022
 
 * SE: Literarische Vergleiche digital modellieren 
 
 * SE: Schreiborte - Writing places 
 
-
-## Lehrveranstaltungen in früheren Semestern:
 ### WiSe 2021
 
 * SE: Romantik und Mehrsprachigkeit: Komparatistische Perspektiven 
