@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-auf der Website von Jana-Katharina Mende.
+[Jana Mende] (https://namedrop.io/janamende)
+
+
+
