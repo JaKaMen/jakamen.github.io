@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Jana Mende] (https://namedrop.io/janamende)
+[Jana Mende](https://namedrop.io/janamende)
 
 
 
