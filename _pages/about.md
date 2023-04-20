@@ -12,4 +12,4 @@ redirect_from:
 
 ## Aktuelles
 
-Momentan forsche ich als Fellow (https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/fellowships/aktuelle-fellows/) der Klassikstiftung in Weimar zu Spuren mehrsprachiger Literaturgeschichte im 19. Jahrhundert.
+Momentan forsche ich als [Fellow](https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/fellowships/aktuelle-fellows/) der Klassikstiftung in Weimar zu Spuren mehrsprachiger Literaturgeschichte im 19. Jahrhundert.
