@@ -4,6 +4,11 @@ title: "Forschung / research"
 permalink: /publications/
 author_profile: true
 ---
+## Aktuelles
+
+Momentan forsche ich als Fellow (https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/fellowships/aktuelle-fellows/) der Klassikstiftung in Weimar zu Spuren mehrsprachiger Literaturgeschichte im 19. Jahrhundert.
+
+
 ## Forschungsprojekte:
 
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
