@@ -12,4 +12,4 @@ redirect_from:
 
 ## Aktuelles
 
-Momentan forsche ich als [Fellow](https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/fellowships/aktuelle-fellows/) der Klassikstiftung in Weimar zu Spuren mehrsprachiger Literaturgeschichte im 19. Jahrhundert.
+Vom 12. bis 17. Juni 2023 bin ich als Fellow im Computational Literary Studies Infrastructure Programm (CLS INFRA) an der ÖAW, Wien zu Gast.
