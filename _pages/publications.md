@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Aktuelles
 
-Momentan forsche ich als Fellow (https://www.klassik-stiftung.de/forschung/forschungsaktivitaeten/fellowships/aktuelle-fellows/) der Klassikstiftung in Weimar zu Spuren mehrsprachiger Literaturgeschichte im 19. Jahrhundert.
+Bald erscheint der Band Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories bei de Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt. 
 
 
 ## Forschungsprojekte:
@@ -26,12 +26,15 @@ Mende, Jana-Katharina (2020): Das Konzept des Messianismus in der polnischen, fr
 * Fieguth, Rolf. "Mende, Jana-Katharina.Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg: Universitätsverlag Winter, 2020 (= Schriften des europäischen Zentrums für Sprachwissenschaften; 9). 450 pp." Kritikon Litterarum, vol. 48, no. 1-2, 2021, pp. 164-166. [https://doi.org/10.1515/kl-2021-0015](https://doi.org/10.1515/kl-2021-0015).
 * Michał Mrugalski: Rezension zu: Mende, Jana-Katharina: Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg  2020. ISBN 978-3-8253-4677-5 In Citavi anzeigen, In: H-Soz-Kult, 17.06.2021, [http://www.hsozkult.de/publicationreview/id/reb-93519](http://www.hsozkult.de/publicationreview/id/reb-93519).
 
-### Mit-Herausgeberschaft
+### Herausgeberschaft
+Mende, Jana-Katharina (Hrsg.) (2023): Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories. Berlin u.a.: de Gruyter (im Druck).
 
-Jochen A. Bär/Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
+Bär, Jochen A./Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
 
 ### Artikel und Aufsätze
 Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Deutschland. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 108-130. 
+
+Mende, Jana-Katharina (2023): Sprachliche Varietäten in der Literatur. In: Der Deutschunterricht, Themenheft zu Literaturlinguistik, hrsg. von Jochen Bär, 1 (2023), abrufbar unter: [https://www.friedrich-verlag.de/deutsch/literatur/sprachliche-varietaten-in-der-literatur-14326](https://www.friedrich-verlag.de/deutsch/literatur/sprachliche-varietaten-in-der-literatur-14326).
 
 Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Europa und der Welt. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 131-151. 
 
