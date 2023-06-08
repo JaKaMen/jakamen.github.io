@@ -8,7 +8,6 @@ author_profile: true
 
 Bald erscheint der Band Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories bei de Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt.
 
-
 ## Forschungsprojekte:
 
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
