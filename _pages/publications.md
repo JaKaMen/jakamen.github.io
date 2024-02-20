@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Aktuelles
 
-Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. 
+Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. (Open Access)
 
 ## Forschungsprojekte:
 
