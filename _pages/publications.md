@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Aktuelles
 
-Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories bei De Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt.
+Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. 
 
 ## Forschungsprojekte:
 
