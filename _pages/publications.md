@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Aktuelles
 
-Bald erscheint der Band Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories bei de Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt.
+Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories bei de Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt.
 
 ## Forschungsprojekte:
 
