@@ -6,14 +6,20 @@ author_profile: true
 ---
 
 
-## Lehrveranstaltungen im Sommersemester 2023, Martin-Luther-Universität Halle-Wittenberg:
-+ SE: Literary Landscaping
-+ SE: Krieg erzählen. Komparatistische Perspektiven auf Russlands Krieg in der Ukraine
+## Lehrveranstaltungen im Sommersemester 2024, Martin-Luther-Universität Halle-Wittenberg:
 
++ SE: Einführung in die Erzähltextanalyse
++ SE: Digitale Literaturwissenschaft: Annotation und Analyse literarischer Texte
++ SE: Postmigrantische Perspektiven in der/auf die Gegenwartsliteratur
 
 
 
 ## Lehrveranstaltungen in früheren Semestern:
+## SoSe 2023
+
++ SE: Literary Landscaping
++ SE: Krieg erzählen. Komparatistische Perspektiven auf Russlands Krieg in der Ukraine
+
 ### WiSe 2022/23
 * SE: Mehrsprachige Lyrik
 
