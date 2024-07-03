@@ -13,10 +13,18 @@ Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century Euro
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
 The research project aims to  investigate how multilingual authors lived, wrote and published within a monolingual national literature in multilingual centres in the 19th century. To this end, I use a scalable approach to measure the extent and examine the characteristics of historical multilingual literature.
 
+### MultiLAB: Multilingual Literature Across Borders 
+
+MultiLAB contains several experimental projects investigating multilingual literature using digital methods:
+Multilingual Literature Corpus: this MultiLAB project annotates and analyses multilingual literature in a project funded by the German National Library as part of the DH Call programme (2023).
+MeAqua: Multilingual Authors in German Literature: this project creates a data set of multilingual authors in German literature during the 19th century,funded by the HERMES Forschungsprogramm (2024).
 
 
 
-## Publikationen (Auswahl)
+
+
+
+## Publications/Publikationen (Auswahl)
 
 ### Monographie
 
@@ -28,7 +36,7 @@ Mende, Jana-Katharina (2020): Das Konzept des Messianismus in der polnischen, fr
 * Michał Mrugalski: Rezension zu: Mende, Jana-Katharina: Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg  2020. ISBN 978-3-8253-4677-5 In Citavi anzeigen, In: H-Soz-Kult, 17.06.2021, [http://www.hsozkult.de/publicationreview/id/reb-93519](http://www.hsozkult.de/publicationreview/id/reb-93519).
 
 ### Herausgeberschaft
-Mende, Jana-Katharina (Hrsg.) (2023): Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories. Berlin u.a.: de Gruyter (im Druck).
+Mende, Jana-Katharina (Hrsg.) (2023): Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories. Berlin u.a.: De Gruyter.
 
 Bär, Jochen A./Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
 
