@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Forschung / research"
+title: "research"
 permalink: /publications/
 author_profile: true
 ---
-## Aktuelles
+## News
 
 Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. (Open Access)
 
-## Forschungsprojekte:
+## Research projects
 
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
 The research project aims to  investigate how multilingual authors lived, wrote and published within a monolingual national literature in multilingual centres in the 19th century. To this end, I use a scalable approach to measure the extent and examine the characteristics of historical multilingual literature.
