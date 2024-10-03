@@ -12,4 +12,4 @@ redirect_from:
 
 ## Aktuelles
 
-Kürzlich erschienen: [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories](https://www.degruyter.com/document/isbn/9783110778656/html) bei De Gruyter - darin finden sich u.a. Beiträge zu versteckter Mehrsprachigkeit in der ungarischen, polnischen, belgischen, französischen Literatur und erste Ergebnisse aus meinem Forschungsprojekt.
+.Das Forschungsprojekt [MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen](https://hermes-hub.de/news/neuigkeiten/news_mende.html) ist Teil der HERMES-Forschungsstudienprogramms. 
