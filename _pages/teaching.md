@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 
-## Lehrveranstaltungen im Sommersemester 2024, Martin-Luther-Universität Halle-Wittenberg:
+## Lehrveranstaltungen im Wintersemester 2024/25, Martin-Luther-Universität Halle-Wittenberg:
++ Seminar: Transnationale Literatur und Gender, 1970 bis heute
++ Seminar: Digitale Kanonforschung
++ Seminar: Grundlagen der neueren deutschen Literaturwissenschaft: Literatur verstehen
 
+## Lehrveranstaltungen in früheren Semestern:
+## SoSe 2024
 + SE: Einführung in die Erzähltextanalyse
 + SE: Digitale Literaturwissenschaft: Annotation und Analyse literarischer Texte
 + SE: Postmigrantische Perspektiven in der/auf die Gegenwartsliteratur
 
-
-
-## Lehrveranstaltungen in früheren Semestern:
 ## SoSe 2023
 
 + SE: Literary Landscaping
