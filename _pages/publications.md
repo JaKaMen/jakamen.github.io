@@ -41,9 +41,10 @@ Mende, Jana-Katharina (Hrsg.) (2023): Hidden Multilingualism in 19th-Century Eur
 Bär, Jochen A./Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
 
 ### Artikel und Aufsätze
-Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Deutschland. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 108-130. 
-
+Mende, Jana-Katharina (2023): Quantitative und qualitative Zugänge zu einer mehrsprachigen Literaturgeschichte des 19. Jahrhundert. Probleme und Ansätze. In: Colloquium Helveticum 52/2023: Neue Formen der Literaturgeschichte, S. 39-56. 
+Mende, Jana-Katharina (2023): Mehrsprachige Literatur in einsprachigen Literaturgeschichten: Zugang, Darstellung, Reflexion. In: Diversität und Darstellung. Zugehörigkeit und Ausgrenzung im Literaturmuseum und in den Literaturwissenschaften. Hrsg. v. Magdalena Paluska und Sebastian Schönbeck. Transcript, S. 242-260, DOI: [https://doi.org/10.1515/9783839464489-012](https://doi.org/10.1515/9783839464489-012). 
 Mende, Jana-Katharina (2023): Sprachliche Varietäten in der Literatur. In: Der Deutschunterricht, Themenheft zu Literaturlinguistik, hrsg. von Jochen Bär, 1 (2023), abrufbar unter: [https://www.friedrich-verlag.de/deutsch/literatur/sprachliche-varietaten-in-der-literatur-14326](https://www.friedrich-verlag.de/deutsch/literatur/sprachliche-varietaten-in-der-literatur-14326).
+Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Deutschland. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 108-130. 
 
 Mende, Jana-Katharina (2022): Geschichte der Mehrsprachigkeit in Europa und der Welt. In: Földes, Csaba; Roelcke, Thorsten (Hg.): Handbuch Mehrsprachigkeit. 1. Auflage. Berlin: de Gruyter (Handbücher Sprachwissen (HSW), 22), S. 131-151. 
 
