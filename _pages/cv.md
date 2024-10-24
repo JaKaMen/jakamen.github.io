@@ -13,9 +13,13 @@ redirect_from:
 
 10/2021–03/2024: wissenschaftliche Mitarbeiterin, Abteilung für Komparatistik, Martin-Luther-Universität Halle-Wittenberg
 
+07/2023–03/2024: Elternzeit
+
 10/2019–09/2021: Lektorin für deutsche Literatur und Sprache, Université de Liège
 
 10/2017–09/2019: DAAD-Lektorin am Institut für Germanistik, Uniwersytet Wroclaw, Polen
+
+08/2018–02/2019: Elternzeit
 
 10/2012–09/2017: wissenschaftliche Mitarbeiterin am Institut für Geistes- und Kulturwissenschaften (Germanistische Sprachwissenschaft), Universität Vechta
 
