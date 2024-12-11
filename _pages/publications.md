@@ -17,9 +17,7 @@ The research project aims to  investigate how multilingual authors lived, wrote 
 
 MultiLAB contains several experimental projects investigating multilingual literature using digital methods:
 Multilingual Literature Corpus: this MultiLAB project annotates and analyses multilingual literature in a project funded by the German National Library as part of the DH Call programme (2023).
-MeAqua: Multilingual Authors in German Literature: this project creates a data set of multilingual authors in German literature during the 19th century,funded by the HERMES Forschungsprogramm (2024).
-
-
+MeAqua: Multilingual Authors in German Literature: in this project, we built a data set of multilingual authors in German literature during the 19th century, funded by the HERMES Forschungsprogramm (2024): Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128
 
 
 
