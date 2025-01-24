@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Aktuelles: Happy to be a founding member of the Young Network TransEurope: https://www.bbaw.de/en/young-network-transeurope 
+
 04/2024: wissenschaftliche Mitarbeiterin, Germanistisches Institut, Martin-Luther-Universität Halle-Wittenberg
 
 10/2021–03/2024: wissenschaftliche Mitarbeiterin, Abteilung für Komparatistik, Martin-Luther-Universität Halle-Wittenberg
