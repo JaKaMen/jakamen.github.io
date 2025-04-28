@@ -4,41 +4,49 @@ title: "research"
 permalink: /publications/
 author_profile: true
 ---
-## News
 
-Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. (Open Access)
+
+
 
 ## Research projects
 
 ### Monolingualism Deconstructed: Modelling Hidden and Invisible Multilingualism in German Literature (1790-1890)
-The research project aims to  investigate how multilingual authors lived, wrote and published within a monolingual national literature in multilingual centres in the 19th century. To this end, I use a scalable approach to measure the extent and examine the characteristics of historical multilingual literature.
+This research project investigates how multilingual authors navigated, created, and published within ostensibly monolingual national literary traditions in the diverse multilingual centers of 19th-century Europe. Using a scalable approach, the project measures the extent and examines the characteristics of historical multilingual literature, challenging traditional monolingual narratives.
+The theoretical framework and initial findings of this research are further explored in my edited volume, Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories (De Gruyter, 2023), which brings together international scholarship on multilingual practices that have remained invisible within European literary histories. This peer-reviewed, open access collection extends the project's scope beyond German literature to examine how multilingual authorship shaped literary production across Europe.
+
+Jana-Katharina Mende (2023) (Hrsg): [Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories.](https://www.degruyter.com/document/doi/10.1515/9783110778656/html) De Gruyter. (peer reviewed, open access)
 
 ### MultiLAB: Multilingual Literature Across Borders 
 
 MultiLAB contains several experimental projects investigating multilingual literature using digital methods:
 Multilingual Literature Corpus: this MultiLAB project annotates and analyses multilingual literature in a project funded by the German National Library as part of the DH Call programme (2023).
-MeAqua: Multilingual Authors in German Literature: in this project, we built a data set of multilingual authors in German literature during the 19th century, funded by the HERMES Forschungsprogramm (2024): Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128
+MeAqua: Multilingual Authors in German Literature: In this project, we built a data set of multilingual authors in German literature during the 19th century, funded by the HERMES Forschungsprogramm (2024): Mende, J.-K., Franke, A., Schmitt, V., & Wallner, K. (2024). MeAqua: Mehrsprachige Autor:innen des 19. Jahrhunderts quantitativ erforschen. Ein Forschungsbericht. Zenodo. https://doi.org/10.5281/zenodo.14194128
 
 
 
 
 ## Publications/Publikationen (Auswahl)
 
-### Monographie
+### Monograph
 
 Mende, Jana-Katharina (2020): Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. 1. Auflage. Heidelberg: Universitätsverlag Winter. 
-* Rezensionen:
+* Reviews: 
 * Maciej Junkiert Romantyczny kamień z Rosetty, czyli Mickiewicz na językach. Rec.: Jana-Katharina Mende, Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg 2020. „Schriften des Europäischen Zentrums für Sprachwissenschaften”. [T.] 9, Pamietnik Literacki 03, 2022 [https://pamietnik-literacki.pl/pamietnik-literacki-3-2022](https://pamietnik-literacki.pl/pamietnik-literacki-3-2022)
 * Andrea Meyer-Fraatz in: Gestern Romantik Heute, online 07.10.2020, URL: [http://www.gestern-romantik-heute.uni-jena.de/index.php?cID=166#614](http://www.gestern-romantik-heute.uni-jena.de/index.php?cID=166#614)
 * Fieguth, Rolf. "Mende, Jana-Katharina.Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg: Universitätsverlag Winter, 2020 (= Schriften des europäischen Zentrums für Sprachwissenschaften; 9). 450 pp." Kritikon Litterarum, vol. 48, no. 1-2, 2021, pp. 164-166. [https://doi.org/10.1515/kl-2021-0015](https://doi.org/10.1515/kl-2021-0015).
 * Michał Mrugalski: Rezension zu: Mende, Jana-Katharina: Das Konzept des Messianismus in der polnischen, französischen und deutschen Literatur der Romantik. Eine mehrsprachige Konzeptanalyse. Heidelberg  2020. ISBN 978-3-8253-4677-5 In Citavi anzeigen, In: H-Soz-Kult, 17.06.2021, [http://www.hsozkult.de/publicationreview/id/reb-93519](http://www.hsozkult.de/publicationreview/id/reb-93519).
 
-### Herausgeberschaft
+### Edited volumes: 
 Mende, Jana-Katharina (Hrsg.) (2023): Hidden Multilingualism in 19th-Century European Literature: Traditions, Texts, Theories. Berlin u.a.: De Gruyter.
 
 Bär, Jochen A./Jana-Katharina Mende/Pamela Steen (Hgg.): Literaturlinguistik – philologische Brückenschläge. Frankfurt a. M.: Peter Lang 2015
 
-### Artikel und Aufsätze
+### Papers (selected): 
+
+Mende, Jana-Katharina (2025): Rahel Levin Varnhagens Sprachwelten. Soziales und poetisches Code-Switching und Mehrsprachigkeit in Briefen und Tagebuchaufzeichnungen. In: Frederike Middelhoff/Martina Wernli: Denken ist Graben. Zum Werk Rahel Levin Varnhagens. Berlin/Heidelberg: Springer, S. 195-213. 
+
+Mende, Jana-Katharina (2024): Mehrsprachigkeit, Übersetzung und Sprachreflexion in der postmigrantischen Gegenwartsliteratur. In: Literatur der Postmigration, hrsg. von Nazli Hodaie und Michael Hofmann. Metzler. 
+
 Mende, Jana-Katharina (2023): Quantitative und qualitative Zugänge zu einer mehrsprachigen Literaturgeschichte des 19. Jahrhundert. Probleme und Ansätze. In: Colloquium Helveticum 52/2023: Neue Formen der Literaturgeschichte, S. 39-56. 
 
 
