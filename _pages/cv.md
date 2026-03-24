@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Aktuelles: Happy to be a founding member of the Young Network TransEurope: https://www.bbaw.de/en/young-network-transeurope 
+Since 10/2024: Founding member of the Young Network TransEurope: https://www.bbaw.de/en/young-network-transeurope 
 
 04/2024: wissenschaftliche Mitarbeiterin, Germanistisches Institut, Martin-Luther-Universität Halle-Wittenberg
 
